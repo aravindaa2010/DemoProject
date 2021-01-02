@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Amazon Web Automation Test Suite" duration-ms="57489" started-at="2020-12-25T13:54:18 PST" finished-at="2020-12-25T13:55:16 PST">
+    <groups>
+    </groups>
+    <test name="Amazon Web Test Cases" duration-ms="57489" started-at="2020-12-25T13:54:18 PST" finished-at="2020-12-25T13:55:16 PST">
+      <class name="com.amazon.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.amazon.qa.testcases.HomePageTest@543c6f6d]" name="beforeMethod" is-config="true" duration-ms="7" started-at="2020-12-25T13:54:18 PST" finished-at="2020-12-25T13:54:18 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.qa.testcases.HomePageTest.VerifyTitle()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.amazon.qa.testcases.HomePageTest@543c6f6d]" name="setup" is-config="true" duration-ms="11413" started-at="2020-12-25T13:54:18 PST" finished-at="2020-12-25T13:54:30 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyTitle()[pri:1, instance:com.amazon.qa.testcases.HomePageTest@543c6f6d]" name="VerifyTitle" duration-ms="97" started-at="2020-12-25T13:54:30 PST" finished-at="2020-12-25T13:54:30 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTitle -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.amazon.qa.testcases.HomePageTest@543c6f6d]" name="closeBrowser" is-config="true" duration-ms="1796" started-at="2020-12-25T13:54:30 PST" finished-at="2020-12-25T13:54:32 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.amazon.qa.testcases.HomePageTest@543c6f6d]" name="setup" is-config="true" duration-ms="10341" started-at="2020-12-25T13:54:32 PST" finished-at="2020-12-25T13:54:42 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.amazon.qa.testcases.HomePageTest@543c6f6d]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-12-25T13:54:32 PST" finished-at="2020-12-25T13:54:32 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.qa.testcases.HomePageTest.verifyLogo()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyLogo()[pri:2, instance:com.amazon.qa.testcases.HomePageTest@543c6f6d]" name="verifyLogo" duration-ms="261" started-at="2020-12-25T13:54:42 PST" finished-at="2020-12-25T13:54:42 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogo -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.amazon.qa.testcases.HomePageTest@543c6f6d]" name="closeBrowser" is-config="true" duration-ms="1308" started-at="2020-12-25T13:54:42 PST" finished-at="2020-12-25T13:54:44 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.amazon.qa.testcases.HomePageTest@543c6f6d]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-12-25T13:54:44 PST" finished-at="2020-12-25T13:54:44 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.qa.testcases.HomePageTest.searchProduct()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.amazon.qa.testcases.HomePageTest@543c6f6d]" name="setup" is-config="true" duration-ms="10923" started-at="2020-12-25T13:54:44 PST" finished-at="2020-12-25T13:54:55 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchProduct()[pri:3, instance:com.amazon.qa.testcases.HomePageTest@543c6f6d]" name="searchProduct" duration-ms="2666" started-at="2020-12-25T13:54:55 PST" finished-at="2020-12-25T13:54:57 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.amazon.qa.testcases.HomePageTest@543c6f6d]" name="closeBrowser" is-config="true" duration-ms="1372" started-at="2020-12-25T13:54:57 PST" finished-at="2020-12-25T13:54:59 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.amazon.qa.testcases.HomePageTest@543c6f6d]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-12-25T13:54:59 PST" finished-at="2020-12-25T13:54:59 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazon.qa.testcases.HomePageTest.VerifySearchResults()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.amazon.qa.testcases.HomePageTest@543c6f6d]" name="setup" is-config="true" duration-ms="10580" started-at="2020-12-25T13:54:59 PST" finished-at="2020-12-25T13:55:09 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifySearchResults()[pri:4, instance:com.amazon.qa.testcases.HomePageTest@543c6f6d]" name="VerifySearchResults" duration-ms="5593" started-at="2020-12-25T13:55:09 PST" finished-at="2020-12-25T13:55:15 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySearchResults -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.amazon.qa.testcases.HomePageTest@543c6f6d]" name="closeBrowser" is-config="true" duration-ms="1084" started-at="2020-12-25T13:55:15 PST" finished-at="2020-12-25T13:55:16 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.amazon.qa.testcases.HomePageTest -->
+    </test> <!-- Amazon Web Test Cases -->
+  </suite> <!-- Amazon Web Automation Test Suite -->
+</testng-results>
